@@ -1,8 +1,0 @@
-{
-    "name": "Add New Issue to Backlog",
-    "description": "New issues will be added to Backlog.",
-    "iconName": "octicon workflow",
-    "categories": [
-        "Workflow"
-    ]
-}
